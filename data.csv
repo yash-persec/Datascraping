@@ -1,0 +1,51 @@
+title,issue,description,fullname,github_link
+elasticsearch,1468 Issues,Open Source, Distributed, RESTful Search Engine,(elastic/elasticsearch),https://github.com/elastic/elasticsearch
+elasticsearch,1466 Issues,Open Source, Distributed, RESTful Search Engine,(elasticsearch/elasticsearch),https://github.com/elasticsearch/elasticsearch
+bazel,1262 Issues,a fast, scalable, multi-language and extensible build system,(bazelbuild/bazel),https://github.com/bazelbuild/bazel
+osmand,895 Issues,OsmAnd,(osmandapp/osmand),https://github.com/osmandapp/osmand
+ballerina-lang,882 Issues,Ballerina is a compiled, transactional, statically and strongly typed programming language with textual and graphical syntaxes.,(ballerina-platform/ballerina-lang),https://github.com/ballerina-platform/ballerina-lang
+traccar,842 Issues,Traccar GPS Tracking System,(traccar/traccar),https://github.com/traccar/traccar
+mage,693 Issues,Magic Another Game Engine,(magefree/mage),https://github.com/magefree/mage
+spring-framework,652 Issues,Spring Framework,(spring-projects/spring-framework),https://github.com/spring-projects/spring-framework
+presto,646 Issues,Distributed SQL query engine for big data,(prestodb/presto),https://github.com/prestodb/presto
+android,542 Issues,📱 Nextcloud Android app,(nextcloud/android),https://github.com/nextcloud/android
+newpipe,535 Issues,A lightweight Youtube frontend for Android.,(teamnewpipe/newpipe),https://github.com/teamnewpipe/newpipe
+kafka,513 Issues,Mirror of Apache Kafka,(apache/kafka),https://github.com/apache/kafka
+closure-compiler,503 Issues,A JavaScript checker and optimizer.,(google/closure-compiler),https://github.com/google/closure-compiler
+checkstyle,503 Issues,Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a comma,(checkstyle/checkstyle),https://github.com/checkstyle/checkstyle
+azure-sdk-for-java,500 Issues,Microsoft Azure SDK for Java,(azure/azure-sdk-for-java),https://github.com/azure/azure-sdk-for-java
+guava,496 Issues,Google core libraries for Java,(google/guava),https://github.com/google/guava
+spring-security,494 Issues,Spring Security,(spring-projects/spring-security),https://github.com/spring-projects/spring-security
+languagetool,479 Issues,Style and Grammar Checker for 25+ Languages,(languagetool-org/languagetool),https://github.com/languagetool-org/languagetool
+fabric8,466 Issues,fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins,(fabric8io/fabric8),https://github.com/fabric8io/fabric8
+cgeo,466 Issues,c:geo - The powerful Android geocaching app.,(cgeo/cgeo),https://github.com/cgeo/cgeo
+signal-android,465 Issues,A private messenger for Android.,(signalapp/signal-android),https://github.com/signalapp/signal-android
+k-9,456 Issues,K-9 Mail – Advanced Email for Android 📧,(k9mail/k-9),https://github.com/k9mail/k-9
+lombok,455 Issues,Very spicy additions to the Java programming language.,(rzwitserloot/lombok),https://github.com/rzwitserloot/lombok
+spring-security-oauth,452 Issues,Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.,(spring-projects/spring-security-oauth),https://github.com/spring-projects/spring-security-oauth
+dubbo,451 Issues,Dubbo is a high-performance, java based, open source RPC framework,(alibaba/dubbo),https://github.com/alibaba/dubbo
+antlr4,401 Issues,ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.,(antlr/antlr4),https://github.com/antlr/antlr4
+jersey,397 Issues,This is the main, active Jersey development repository. Forks and pull requests are welcome! For more information about Jersey, please visit the Jersey website:,(jersey/jersey),https://github.com/jersey/jersey
+flink,394 Issues,Mirror of Apache Flink,(apache/flink),https://github.com/apache/flink
+spring-boot,387 Issues,Spring Boot,(spring-projects/spring-boot),https://github.com/spring-projects/spring-boot
+wordpress-android,380 Issues,WordPress for Android,(wordpress-mobile/wordpress-android),https://github.com/wordpress-mobile/wordpress-android
+grpc-java,376 Issues,The Java gRPC implementation. HTTP/2 based RPC,(grpc/grpc-java),https://github.com/grpc/grpc-java
+opentsdb,376 Issues,A scalable, distributed Time Series Database.,(opentsdb/opentsdb),https://github.com/opentsdb/opentsdb
+netty,365 Issues,Netty project - an event-driven asynchronous network application framework,(netty/netty),https://github.com/netty/netty
+selenium,360 Issues,A browser automation framework and ecosystem.,(seleniumhq/selenium),https://github.com/seleniumhq/selenium
+realm-java,359 Issues,Realm is a mobile database: a replacement for SQLite & ORMs,(realm/realm-java),https://github.com/realm/realm-java
+exoplayer,357 Issues,An extensible media player for Android,(google/exoplayer),https://github.com/google/exoplayer
+openfoodfacts-androidapp,325 Issues,Native port of Open Food Facts on Android - We need HELP :-),(openfoodfacts/openfoodfacts-androidapp),https://github.com/openfoodfacts/openfoodfacts-androidapp
+pmd,309 Issues,An extensible cross-language static code analyzer.,(pmd/pmd),https://github.com/pmd/pmd
+libgdx,307 Issues,Desktop/Android/HTML5/iOS Java game development framework,(libgdx/libgdx),https://github.com/libgdx/libgdx
+powermock,297 Issues,PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.,(jayway/powermock),https://github.com/jayway/powermock
+airsonic,297 Issues,:satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic),(airsonic/airsonic),https://github.com/airsonic/airsonic
+error-prone,293 Issues,Catch common Java mistakes as compile-time errors,(google/error-prone),https://github.com/google/error-prone
+jabref,276 Issues,Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases,(jabref/jabref),https://github.com/jabref/jabref
+guice,261 Issues,Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.,(google/guice),https://github.com/google/guice
+rest-assured,258 Issues,Java DSL for easy testing of REST services,(rest-assured/rest-assured),https://github.com/rest-assured/rest-assured
+bisq,255 Issues,The decentralized bitcoin exchange network,(bisq-network/bisq),https://github.com/bisq-network/bisq
+exist,252 Issues,eXist Native XML Database and Application Platform,(exist-db/exist),https://github.com/exist-db/exist
+essentials,248 Issues,EssentialsX - A maintained fork of Essentials 2.x.,(essentialsx/essentials),https://github.com/essentialsx/essentials
+hadoop,248 Issues,Apache Hadoop,(apache/hadoop),https://github.com/apache/hadoop
+cloudstack,242 Issues,Mirror of Apache Cloudstack,(apache/cloudstack),https://github.com/apache/cloudstack
