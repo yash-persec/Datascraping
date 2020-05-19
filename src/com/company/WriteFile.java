@@ -1,6 +1,7 @@
 package com.company;
 
 import com.company.model.Codetriage;
+import com.company.model.Mitra;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -8,28 +9,17 @@ import java.io.IOException;
 import java.util.List;
 
 public class WriteFile {
-    public void writeFile(String fileName, List<Codetriage> data) throws IOException {
+    public void writeFile(String fileName, List<Mitra> data) throws IOException {
         FileWriter csvWriter = new FileWriter(fileName);
-        csvWriter.append("title");
-        csvWriter.append(",");
-        csvWriter.append("issue");
-        csvWriter.append(",");
-        csvWriter.append("description");
-        csvWriter.append(",");
+        csvWriter.append("star");
+        csvWriter.append("review");
 
-        csvWriter.append("fullname");
-        csvWriter.append(",");
-
-        csvWriter.append("github_link");
         csvWriter.append("\n");
 
-        for (Codetriage rowData : data) {
+        for (Mitra rowData : data) {
 
-            csvWriter.append(rowData.getTitle() + "," +
-                    rowData.getIssue() + "," +
-                    rowData.getDescription() + "," +
-                    rowData.getFullName() + "," +
-                    rowData.getGithubLink()
+            csvWriter.append(rowData.getStar() + "," +
+                    rowData.getReview()
 
             );
             csvWriter.append("\n");
